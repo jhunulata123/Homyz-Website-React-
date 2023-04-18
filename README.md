@@ -6,8 +6,8 @@ The Real Estate Homyz Website is a platform for buying, selling, and renting pro
 
 ## Technologies Used
 The Real Estate Homyz Website is built using the following technologies:
-*HTML
-*CSS
-*JavaScript
-*React.js
+* HTML
+* CSS
+* JavaScript
+* React.js
 
